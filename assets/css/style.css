@@ -42,3 +42,7 @@ section {
     color: #4aaaa5;
     font-weight: bold;
 }
+
+nav {
+    float: right;
+}
