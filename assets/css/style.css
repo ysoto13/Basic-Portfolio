@@ -2,3 +2,12 @@ body{
     background: #4aaaa5;
     color: #777777;
 }
+
+header {
+    background: #fff;
+    border: #ccc;
+}
+
+footer {
+    background: #666666;
+}
