@@ -20,6 +20,7 @@ footer {
     background: #666666;
     text-align: center;
     height: 65px;
+    border-top: 8px solid #4aaaa5;
 }
 
 section {
