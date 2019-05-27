@@ -1,8 +1,6 @@
  body {
     background: #4aaaa5;
     color: #777777;
-    width: 960px;
-    margin: auto;
 }
 
 header { 
@@ -17,6 +15,8 @@ footer {
 
 section {
      background: #fff;
+     width: 960px;
+     margin: 0 auto;
 }
 
 .header {
