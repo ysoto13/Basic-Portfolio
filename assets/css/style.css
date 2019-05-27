@@ -2,7 +2,6 @@
     background: #4aaaa5;
     color: #777777;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    font-weight: bold;
 }
 
 header { 
@@ -29,9 +28,11 @@ section {
     padding: 20px;
     height: 50px ;
     width: 100px ;
+    font-weight: bold;
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
 .about {
     color: #4aaaa5;
+    font-weight: bold;
 }
