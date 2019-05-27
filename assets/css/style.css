@@ -35,16 +35,19 @@ section {
     background: #4aaaa5;
     color: #fff;
     text-align: center;
-    padding: 25px;
-    height: 75px ;
-    width: 200px ;
+    padding: 23px;
+    height: 85px ;
+    width: 290px ;
     font-weight: bold;
     font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 35px;
+    float: 
 }
 
 .about {
     color: #4aaaa5;
     font-weight: bold;
+    font-size: 35px;
 }
 
 nav {
